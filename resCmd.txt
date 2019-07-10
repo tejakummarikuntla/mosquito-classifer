@@ -1,0 +1,2 @@
+python -m scripts.label_image \
+    --image=tf_files/mosq/anopheles/pic_014.jpgn
